@@ -1,0 +1,9 @@
+Maulana Pasya Zefanya
+24060121140175
+Praktikum PBO D
+
+Soal:
+Cobalah pada saat praktikum: Gantilah 'T' (dan segala T) pada BanugnDatarGeneric.java diganti dengan karakter lain. Simpulkan apa yang Anda lakukan!
+
+Jawab:
+Menurut saya class generic merupakan class yang tipe datanya dapat diubah dan lebih dari satu di satu konstruktor sesuai kebutuhan. Diubahnya T pada BangunDatarGeneric.java tidak berpengaruh pada konstruktor lain yang menggunakan class generic BangunDatarGeneric, hanya berpengaruh pada fungsi/prosedur yang ada pada BangunDatarGeneric.java
